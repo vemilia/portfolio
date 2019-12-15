@@ -49,7 +49,7 @@
 .App-h2 {
   display: flex;
   flex-direction: column;
-  font-size: calc(20px + 4vmin);
+  font-size: calc(16px + 2vmin);
   color: black;
   margin-bottom: 1rem;
   justify-content: center;
@@ -68,7 +68,7 @@
   font-family: "Times New Roman", Times, serif;
   display: flex;
   flex-direction: column;
-  font-size: calc(1,5rem);
+  font-size: calc(13px + 1vmin);
   margin:0px;
   color: black;
 }
