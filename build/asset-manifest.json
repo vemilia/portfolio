@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/githubpage/static/css/main.1de3576f.chunk.css",
-    "main.js": "/githubpage/static/js/main.9adf9d4f.chunk.js",
-    "main.js.map": "/githubpage/static/js/main.9adf9d4f.chunk.js.map",
-    "runtime-main.js": "/githubpage/static/js/runtime-main.73f306ae.js",
-    "runtime-main.js.map": "/githubpage/static/js/runtime-main.73f306ae.js.map",
-    "static/js/2.66643fd3.chunk.js": "/githubpage/static/js/2.66643fd3.chunk.js",
-    "static/js/2.66643fd3.chunk.js.map": "/githubpage/static/js/2.66643fd3.chunk.js.map",
-    "index.html": "/githubpage/index.html",
-    "precache-manifest.0b2032a17a4dc710932e981769362675.js": "/githubpage/precache-manifest.0b2032a17a4dc710932e981769362675.js",
-    "service-worker.js": "/githubpage/service-worker.js",
-    "static/css/main.1de3576f.chunk.css.map": "/githubpage/static/css/main.1de3576f.chunk.css.map",
-    "static/js/2.66643fd3.chunk.js.LICENSE": "/githubpage/static/js/2.66643fd3.chunk.js.LICENSE",
-    "static/media/app3.png": "/githubpage/static/media/app3.43072f04.png",
-    "static/media/calender.jpg": "/githubpage/static/media/calender.bc330f66.jpg",
-    "static/media/digitaldie1.png": "/githubpage/static/media/digitaldie1.a1eb25fb.png",
-    "static/media/frame3.png": "/githubpage/static/media/frame3.01b9b5f6.png",
-    "static/media/laddaned.jpeg": "/githubpage/static/media/laddaned.ae0d0b1a.jpeg",
-    "static/media/mobilapp.png": "/githubpage/static/media/mobilapp.5919fcbb.png",
-    "static/media/nav.png": "/githubpage/static/media/nav.2586900f.png"
+    "main.css": "/portofolio/static/css/main.1de3576f.chunk.css",
+    "main.js": "/portofolio/static/js/main.eb9e1903.chunk.js",
+    "main.js.map": "/portofolio/static/js/main.eb9e1903.chunk.js.map",
+    "runtime-main.js": "/portofolio/static/js/runtime-main.e5a1351b.js",
+    "runtime-main.js.map": "/portofolio/static/js/runtime-main.e5a1351b.js.map",
+    "static/js/2.c4c7df03.chunk.js": "/portofolio/static/js/2.c4c7df03.chunk.js",
+    "static/js/2.c4c7df03.chunk.js.map": "/portofolio/static/js/2.c4c7df03.chunk.js.map",
+    "index.html": "/portofolio/index.html",
+    "precache-manifest.0a2e2343173fe7b61ad1c4137047dccb.js": "/portofolio/precache-manifest.0a2e2343173fe7b61ad1c4137047dccb.js",
+    "service-worker.js": "/portofolio/service-worker.js",
+    "static/css/main.1de3576f.chunk.css.map": "/portofolio/static/css/main.1de3576f.chunk.css.map",
+    "static/js/2.c4c7df03.chunk.js.LICENSE": "/portofolio/static/js/2.c4c7df03.chunk.js.LICENSE",
+    "static/media/app3.png": "/portofolio/static/media/app3.43072f04.png",
+    "static/media/calender.jpg": "/portofolio/static/media/calender.bc330f66.jpg",
+    "static/media/digitaldie1.png": "/portofolio/static/media/digitaldie1.a1eb25fb.png",
+    "static/media/frame3.png": "/portofolio/static/media/frame3.01b9b5f6.png",
+    "static/media/laddaned.jpeg": "/portofolio/static/media/laddaned.ae0d0b1a.jpeg",
+    "static/media/mobilapp.png": "/portofolio/static/media/mobilapp.5919fcbb.png",
+    "static/media/nav.png": "/portofolio/static/media/nav.2586900f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.73f306ae.js",
-    "static/js/2.66643fd3.chunk.js",
+    "static/js/runtime-main.e5a1351b.js",
+    "static/js/2.c4c7df03.chunk.js",
     "static/css/main.1de3576f.chunk.css",
-    "static/js/main.9adf9d4f.chunk.js"
+    "static/js/main.eb9e1903.chunk.js"
   ]
 }
