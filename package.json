@@ -2,6 +2,8 @@
   "name": "my-portofolio",
   "version": "0.1.0",
   "private": true,
+  "start_url": ".",
+  "homepage": "https://www.emiliavestlund.com/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
@@ -13,7 +15,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "homepage" : "https://www.emiliavestlund.com/",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
