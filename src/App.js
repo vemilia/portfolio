@@ -12,6 +12,8 @@ function App(){
  
   return (
       <header className="App-header">
+            <title>Emilia Vestlunds portfolio</title>
+
         <h3 className="App-h3">
             Emilia Vestlund
         </h3>
