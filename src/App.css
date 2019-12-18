@@ -21,6 +21,8 @@
 
 .App-header {
   background-color: #ffffff;
+  padding-left: calc(4vmin);
+  padding-right: calc(4vmin);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -32,12 +34,15 @@
   flex-direction: column;
   font-size: calc(16px + 3vmin);
   color: black;
+  font-weight: bolder;
+  letter-spacing: 3px;
   align-items: center;
   justify-content: center;
 }
 
 .App-h1 {
   display: flex;
+  letter-spacing: 3px;
   flex-direction: column;
   font-size: calc(24px + 7vmin);
   color: black;
@@ -61,7 +66,23 @@
   font-size: calc(10px + 2vmin);
   color: black;
   align-items: center;
+  text-align: center;
   justify-content: center;
+  
+}
+
+a:hover {
+  color: grey;
+}
+
+.App-a1 {
+  display: flex;
+  flex-direction: column;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: calc(6px + 2vmin);
+  color: black;
 }
 
 .App-p {
@@ -71,6 +92,25 @@
   font-size: calc(13px + 1vmin);
   margin:0px;
   color: black;
+}
+
+.App-p1{
+  letter-spacing: 2px;
+}
+
+.App-apa{
+  display: flex;
+  font-family: "Times New Roman", Times, serif;
+  flex-direction: column;
+  letter-spacing: 2px;
+  font-size: calc(7px + 2vmin);
+  color: black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  justify-content: center;
 }
 
 .App-footer{
