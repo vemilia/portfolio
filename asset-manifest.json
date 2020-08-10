@@ -1,29 +1,31 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.77f52a50.chunk.css",
-    "main.js": "/portfolio/static/js/main.7b540037.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.7b540037.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.88bdc7b2.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.88bdc7b2.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.860ade9b.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.860ade9b.js.map",
-    "static/js/2.57b14f8a.chunk.js": "/portfolio/static/js/2.57b14f8a.chunk.js",
-    "static/js/2.57b14f8a.chunk.js.map": "/portfolio/static/js/2.57b14f8a.chunk.js.map",
+    "static/js/2.945a94cd.chunk.js": "/portfolio/static/js/2.945a94cd.chunk.js",
+    "static/js/2.945a94cd.chunk.js.map": "/portfolio/static/js/2.945a94cd.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.7f98903fdebd06fa6da722aec9960cd3.js": "/portfolio/precache-manifest.7f98903fdebd06fa6da722aec9960cd3.js",
+    "precache-manifest.6b986eff198a993d65c5d00a11f4a163.js": "/portfolio/precache-manifest.6b986eff198a993d65c5d00a11f4a163.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.77f52a50.chunk.css.map": "/portfolio/static/css/main.77f52a50.chunk.css.map",
-    "static/js/2.57b14f8a.chunk.js.LICENSE": "/portfolio/static/js/2.57b14f8a.chunk.js.LICENSE",
+    "static/js/2.945a94cd.chunk.js.LICENSE": "/portfolio/static/js/2.945a94cd.chunk.js.LICENSE",
     "static/media/app3.png": "/portfolio/static/media/app3.43072f04.png",
     "static/media/calender.jpg": "/portfolio/static/media/calender.bc330f66.jpg",
     "static/media/digitaldie1.png": "/portfolio/static/media/digitaldie1.a1eb25fb.png",
     "static/media/frame3.png": "/portfolio/static/media/frame3.01b9b5f6.png",
+    "static/media/gravity.jpg": "/portfolio/static/media/gravity.4edf7d25.jpg",
     "static/media/laddaned.jpeg": "/portfolio/static/media/laddaned.ae0d0b1a.jpeg",
     "static/media/mobilapp.png": "/portfolio/static/media/mobilapp.5919fcbb.png",
-    "static/media/nav.png": "/portfolio/static/media/nav.2586900f.png"
+    "static/media/nav.png": "/portfolio/static/media/nav.2586900f.png",
+    "static/media/quiz.png": "/portfolio/static/media/quiz.5717bcd5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.860ade9b.js",
-    "static/js/2.57b14f8a.chunk.js",
+    "static/js/2.945a94cd.chunk.js",
     "static/css/main.77f52a50.chunk.css",
-    "static/js/main.7b540037.chunk.js"
+    "static/js/main.88bdc7b2.chunk.js"
   ]
 }
