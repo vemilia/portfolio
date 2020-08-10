@@ -1,10 +1,11 @@
 import React, { Component } from 'react'
 import museum from './nav.png';
 import mobil from './mobilapp.png';
-import frame from './frame3.png';
+import frame from './gravity.jpg';
 import die from './digitaldie1.png'
 import calender from './calender.jpg'
 import app3 from './app3.png'
+import quizgo from "./quiz.png"
 
 export default class Work extends Component {
   render() {
@@ -14,8 +15,23 @@ export default class Work extends Component {
            <h3 className="App-h3">
             Portfolio
         </h3>
+
+
+    <div style={{paddingLeft: '5rem', paddingRight: '5rem', align: 'center'}}>
+          <p style ={{display: 'inline', float:'right'}}> <img width="600 px" className="App-img" src={quizgo} /></p>
+        
+       <h1 className="App-h2" style={{paddingRight: '30px'}}>
+         QUIZGO
+         </h1> 
+         <p className="App-p" style={{paddingRight: '30px'}}>
+        Master's thesis project at Semcon. Designed the UX and gamification aspects of an app that enables students to learn while moving outdoors. User research and testing was conducted in schools with students and teachers. All the UI components was made from skratch using Illustrator. 
+         </p>
+           </div>
+
+
+
            <div style={{paddingLeft: '5rem', paddingRight: '5rem', align: 'center'}}>
-          <p style ={{display: 'inline', float:'left'}}> <img width="600 px" className="App-img" src={museum} /></p>
+          <p style ={{display: 'inline', float:'left'}}> <img width="550 px" className="App-img" src={museum} /></p>
         
        <h1 className="App-h2" style={{paddingLeft: '30px'}}>
          #Museumgroupie
@@ -77,16 +93,6 @@ the store.
            </div>
 
 
-           <div style={{paddingLeft: '5rem', paddingRight: '5rem', align: 'center'}}>
-          <p style ={{display: 'inline', float:'right'}}> <img width="600 px" className="App-img" src={app3} /></p>
-        
-       <h1 className="App-h2" style={{paddingRight: '30px'}}>
-         Leasing application
-         </h1> 
-         <p className="App-p" style={{paddingRight: '30px'}}>
-          An android application for renting out familys unutilized stuff. For example childrens toys, scotters, clothes. 
-           </p>
-           </div>
   
   </header>
   );
