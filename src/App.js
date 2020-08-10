@@ -34,9 +34,9 @@ class App extends Component {
          User Experience Designer
          </h1> 
          <p className="App-p" style={{letterSpacing: '2px'}}>
-           Currently at Chalmers 
+           Bachelor in Software Engineering 
            <br></br>
-           Interaction Design & Technologies</p>
+           Master in Interaction Design & Technologies at Chalmers </p>
            </div>
 
          <div id="portofolio"><Work></Work></div> 
